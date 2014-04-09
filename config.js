@@ -1,6 +1,8 @@
 // # Ghost Configuration
 // Setup your Ghost install for various environments
 
+process.env['NODE_ENV'] = 'production';
+
 var path = require('path'),
     config;
 
