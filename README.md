@@ -9,7 +9,6 @@ Visit the project's website at <http://ghost.org> &bull; docs on <http://docs.gh
 Want to report a bug, request a feature, or help us build or translate Ghost? Check out our in depth guide to [Contributing to Ghost](https://github.com/TryGhost/Ghost/blob/master/CONTRIBUTING.md). We need all the help we can get! You can also join in with our [community](https://github.com/TryGhost/Ghost#community) to keep up-to-date and meet other Ghosters.
 
 
-
 ## Getting Started
 
 There are **two** main ways to get started with Ghost, take care to use the method which best suits your needs.
