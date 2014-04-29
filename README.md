@@ -5,7 +5,6 @@ Ghost is a free, open, simple blogging platform that's available to anyone who w
 Visit the project's website at <http://ghost.org> &bull; docs on <http://docs.ghost.org>.
 
 ## Getting Involved
-
 Want to report a bug, request a feature, or help us build or translate Ghost? Check out our in depth guide to [Contributing to Ghost](https://github.com/TryGhost/Ghost/blob/master/CONTRIBUTING.md). We need all the help we can get! You can also join in with our [community](https://github.com/TryGhost/Ghost#community) to keep up-to-date and meet other Ghosters.
 
 
