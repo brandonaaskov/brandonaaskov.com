@@ -1,3 +1,15 @@
 [submodule "content/themes/rollsroyce"]
 	path = content/themes/rollsroyce
 	url = https://github.com/roycehaynes/rollsroyce
+[submodule "content/themes/solar-theme-ghost"]
+	path = content/themes/solar-theme-ghost
+	url = https://github.com/redwallhp/solar-theme-ghost.git
+[submodule "content/themes/ghostwriter"]
+	path = content/themes/ghostwriter
+	url = https://github.com/teqnology/ghostwriter.git
+[submodule "content/themes/ghostium"]
+	path = content/themes/ghostium
+	url = https://github.com/oswaldoacauan/ghostium/
+[submodule "content/themes/magnum"]
+	path = content/themes/magnum
+	url = https://github.com/durgesh-priyaranjan/magnum.git
