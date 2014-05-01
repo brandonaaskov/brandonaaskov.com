@@ -9,7 +9,7 @@
 	url = https://github.com/teqnology/ghostwriter.git
 [submodule "content/themes/ghostium"]
 	path = content/themes/ghostium
-	url = https://github.com/oswaldoacauan/ghostium/
+	url = https://github.com/brandonaaskov/ghostium.git
 [submodule "content/themes/magnum"]
 	path = content/themes/magnum
 	url = https://github.com/durgesh-priyaranjan/magnum.git
